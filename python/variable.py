@@ -5,7 +5,7 @@
 # print("Enter a number")
 # a=input()
 # print("you have entered a number",a)
-print("Enter 1'st Number")
+print("Enter 1'st Number")1
 print("Enter 2'st Number")
 a=input()
 b=input()
