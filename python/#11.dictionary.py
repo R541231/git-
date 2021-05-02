@@ -1,6 +1,6 @@
 # d1={}
 # print(type(d1))
-d2={"jethala":"jalebi-fafada","aiyar":"idli","boobita":"rasgulla"}
+# d2={"jethala":"jalebi-fafada","aiyar":"idli","boobita":"rasgulla"}  HE
 # # print(d2["jethala"])
 # d2["kapil"]={"gaalia"}
 # d2["chandu"]={"chai"}
